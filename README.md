@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! I’m Minh (also goes by Amanda), a data enthusiast with a passion for education and edtech. My journey began with a double major in Data Analytics and Educational Studies at Dickinson College, which sparked my interest in how data can shape educational policies. I’ve had the privilege of working in collegiate athletics and in K-5 education non-profit, where I used data to make a difference in education spaces and support underserved communities.<br><br>Most recently, I’m diving into exciting research projects, developing tools like a predictive decision tree model and a user-facing dashboard to guide educational pathways. I’m also exploring text analysis to secure data integrity in higher ed. In short, I see data as a powerful tool for improving educational solutions and promoting equity in EdTech.<br><br>Outside of data, I dabble in developing web apps. Some of my works include e-cards and simple math games for kids. When I’m not crunching numbers or coding, you can find me in the kitchen cooking and baking, or unwinding with some painting!
+Hi there! I'm Minh (Amanda)—a curious soul who stumbled into the world of data and never found my way out. What began as tinkering with numbers at Dickinson College blossomed into a love for learning sciences and technology.
+
+These days, you'll find me at Penn GSE's Wonder Lab, where I'm exploring computer-supported collaborative learning and AI-powered learning technologies. I collaborate with partners to design teaching curricula that integrate data science to address real-world challenges or dabble in building tools that leverage technology to make collaborative learning more meaningful. Before all this, my journey has taken me through collegiate athletics, where I built Bayesian models to evaluate player efficiency, and K-4 education, where I crafted interactive math games and curricula that made numbers feel like magic for young learners and their families.
+
+When I'm not lost in code or conducting thematic analysis, I'm creating web applications that bring a smile to someone's day. And if the digital world gets too pixelated, you might catch me experimenting with recipes in the kitchen or letting colors dance across a canvas.
+
+Always up for a chat about AIEd, collaborative learning, or how we can blend tech and human connection to create meaningful learning experiences. Because in my story, technology isn't just a tool—it's the plot twist that makes learning an adventure worth sharing!
+
 
 
 ## 🌐 Socials:
